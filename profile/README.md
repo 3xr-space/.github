@@ -5,4 +5,4 @@
 </h1>
 
 
-<h3 align="center">spaces where digital communities participate in digital economies</h3>
+<h3 align="center">spaces for virtual communities participating in digital economies</h3>
