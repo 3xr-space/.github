@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="https://pbs.twimg.com/profile_banners/1347934793766465537/1627514101/1500x500" height="300px">
+  <img src="../3XR-twitter-header-1500x500.png" height="300px">
   <br>
 </h1>
 
 
-<h3 align="center">spaces for virtual communities participating in digital economies</h3>
+<h3 align="center">spaces for every thing</h3>
